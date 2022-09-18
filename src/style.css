@@ -1,0 +1,19 @@
+@import 'https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css';
+
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+html,
+body {
+    overflow: hidden;
+}
+
+.renderer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+}
